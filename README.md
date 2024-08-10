@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bb735cf8-2b5c-4c28-9742-e73457d10d98)# YouTube-Data-and-Transcript-API
+# YouTube-Data-and-Transcript-API
 
 ## Overview
 
