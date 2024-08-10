@@ -1,4 +1,4 @@
-# YouTube-Data-and-Transcript-API
+![image](https://github.com/user-attachments/assets/bb735cf8-2b5c-4c28-9742-e73457d10d98)# YouTube-Data-and-Transcript-API
 
 ## Overview
 
@@ -64,6 +64,10 @@ This project provides a Python-based tool that interacts with the YouTube Data A
     * Replace YOUR_YOUTUBE_API_KEY with your actual API key.
   
 ![Image](https://github.com/DevanshL/YouTube-Data-and-Transcript-API/blob/main/Images/output.png?raw=true)
+
+* [pypi link](https://pypi.org/project/ytube-data-and-transcript/)
+  ![Image](https://github.com/DevanshL/YouTube-Data-and-Transcript-API/blob/main/Images/pypi_publish.png?raw=true)
+
 
 
 ## Usage
